@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepashiwal007
-- 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ...React JS
+- 👀 I’m interested in ... Data Analysis
+- 🌱 I’m currently learning ... Machine Learning Concepts 
 - 📫 How to reach me ...Sandeepashiwal007@gmail.com
 
 <!---
